@@ -5,3 +5,5 @@
 /.vs/FacturaAfipPdf/v16/Server/sqlite3/storage.ide-shm
 /.vs/FacturaAfipPdf/v16/Server/sqlite3/storage.ide-wal
 /packages
+/Test/obj
+/Test/bin
