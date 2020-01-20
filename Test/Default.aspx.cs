@@ -18,7 +18,7 @@ namespace Test
             business.GrossIncome = "207-123456-20";
             business.CUIT = 30714460354;
             business.InitialActivities = DateTime.Now.Date;
-            business.BusinessName = "adver infinity group";
+            business.BusinessName = "infinity group";
             business.PathImage = @"E:\Encabezado_FC.png";
 
             FacturaAfipPdf.Print.ClientInfo client = new Print.ClientInfo()
